@@ -1,0 +1,21 @@
+/*css*/
+/*Estilos para el contenedor*/
+.box {
+    width: 200;
+    height: 100;
+    padding: 20;
+    border: 2px solid black;
+    margin-bottom: 30 px;
+    /*Efecto de sombra alrededor del contenedor*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3)
+}
+/*Estilos para el txt dentro del contenedor*/
+.box p {
+/*efecto de sombra al texto*/
+text-shadow: 2px 2px 4px rgba(0,0, 0, 0.5);
+}
+
+
+
+
+
