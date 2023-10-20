@@ -1,0 +1,23 @@
+
+/*styles.css*/
+/*Estilos para el contenedor*/
+.flex-container {
+    /*alineamos los elementos en el eje central de manera  centrada*/
+        display: flex;
+    /*Alineamos los elementos en el eje transversal en la parte superior*/
+        flex-direction: column;
+    /** Permitimos que los elementos se ajusten en múltiples líneas si exceden del ancho del contenedor*/
+        align-items: center;
+
+    /*Estilos para los elementos de la lista*/
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            margin-top: 10px;
+        }
+    
+    /**/
+}
