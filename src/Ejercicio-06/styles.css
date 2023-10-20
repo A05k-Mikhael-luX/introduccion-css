@@ -1,0 +1,13 @@
+/*css*/
+/*Estilos para el primer parrafo*/
+.font-style {
+    font-family: Arial, sans-serif;
+}
+/*Estilos para el segundo parrafo*/
+.font-size {
+    font-size: 30px;
+}
+/*Estilos para el tercer parrafo*/
+.font-weight {
+    font-weight: 700;
+}
